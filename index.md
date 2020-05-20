@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+## Profile
 
-You can use the [editor on GitHub](https://github.com/nowsprinting/nowsprinting.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+- iOS/Android/Unity app developer, SET (Software Engineer in Test).
+- Works at DeNA Co., Ltd. and HUB Systems, Inc.
+- Lives in Yokohama, Japan
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Active Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [mob IntelliJ plugin](https://github.com/remotemobprogramming/intellij-mob): for good remote mob programming experience
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Portfolios
 
-- Bulleted
-- List
+### Speaker
 
-1. Numbered
-2. List
+- [Unite Tokyo 2019](https://events.unity3d.jp/unitetokyo/) about [Improve internal quality with Unity Test Runner](https://learning.unity3d.jp/3300/)
+- More [presentations](https://www.slideshare.net/nowsprinting/presentations)
 
-**Bold** and _Italic_ and `Code` text
+### Books
 
-[Link](url) and ![Image](src)
-```
+- [システムテスト自動化 標準ガイド](https://amzn.to/2XkTZlo) (2014, in Japanaese)
+- [iOSアプリテスト自動化入門](https://amzn.to/2X8VUt2) (2014, in Japanaese)
+- [Androidアプリ テスト技法](https://amzn.to/3bKFSeh) (2013, in Japanaese)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Apps
 
-### Jekyll Themes
+- [電エースQuiz - 河崎実監督と特撮映画の世界](https://apps.apple.com/jp/app/id528698814) (iOS app, in Japanaese)
+- [フットサル ルールと雑学](https://apps.apple.com/jp/app/id512031516) (iOS app, in Japanaese)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nowsprinting/nowsprinting.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Blogs
 
-### Support or Contact
+- [やらなイカ？](https://www.nowsprinting.com/) (Tech blog, in Japanaese)
+- [斬らなイカ？](https://martial-arts.nowsprinting.com/) (Martial-arts blog, in Japanaese)
+- [噛まなイカ？](https://same.nowsprinting.com/) (B-movie blog, in Japanaese)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Appearance
+
+- [電エース60](https://amzn.to/2Pcqnkg) (2018)
+- [燃えよ電エース 俺たちのアモーレ](http://amzn.to/2pnEcDG) (2017)
+- [電エースポリス 第2話](https://www.youtube.com/watch?v=BMGmFhI_gh8) (2016)
+- [電エース刑事](https://amzn.to/2MVrI1o) (2016)
+- [電エース下関](https://amzn.to/2LBcD0e) (2015)
+- [電エース中野 大江戸温泉物語の謎](https://amzn.to/2PKVggM) (2014)
+- [電エースタロウ ホットリボンのひみつ](https://amzn.to/2BWzN1x) (2014)
+- [母さん助けて電エース](https://amzn.to/2wqri92) (2014)
