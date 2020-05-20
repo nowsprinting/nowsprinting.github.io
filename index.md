@@ -3,6 +3,8 @@
 - iOS/Android/Unity app developer, SET (Software Engineer in Test).
 - Works at DeNA Co., Ltd. and HUB Systems, Inc.
 - Lives in Yokohama, Japan
+- GitHub: [@nowsprinting](https://github.com/nowsprinting)
+- Twitter: [@nowsprinting](https://twitter.com/nowsprinting)
 
 
 ## Active Projects
