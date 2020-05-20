@@ -32,7 +32,7 @@
 
 - [やらなイカ？](https://www.nowsprinting.com/) (Tech blog, in Japanaese)
 - [斬らなイカ？](https://martial-arts.nowsprinting.com/) (Martial-arts blog, in Japanaese)
-- [噛まなイカ？](https://same.nowsprinting.com/) (B-movie blog, in Japanaese)
+- [噛まなイカ？](https://same.nowsprinting.com/) (Shark/ Zombie/ B-movie blog, in Japanaese)
 
 ### Appearance
 
