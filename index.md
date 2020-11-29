@@ -35,6 +35,7 @@
 
 - [電エースQuiz - 河崎実監督と特撮映画の世界](https://apps.apple.com/jp/app/id528698814) (iOS app)
 - [フットサル ルールと雑学](https://apps.apple.com/jp/app/id512031516) (iOS app)
+- [山吹色の茸疾走](https://play.google.com/store/apps/details?id=com.nowsprinting.sunlightyellowmushroom) (Android app)
 
 ### Appearance
 
