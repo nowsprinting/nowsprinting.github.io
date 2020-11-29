@@ -21,9 +21,9 @@
 
 ### Books
 
-- [Androidアプリ テスト技法](https://amzn.to/3bKFSeh) (2013/ Android apps test techniques, in Japanaese)
-- [iOSアプリテスト自動化入門](https://amzn.to/2X8VUt2) (2014/ iOS apps test automation, in Japanaese)
-- [システムテスト自動化 標準ガイド](https://amzn.to/2XkTZlo) (2014/ Translation "Software Test Automation" for Japanaese)
+- [Androidアプリ テスト技法](https://amzn.to/3bKFSeh) (2013/ Android apps test techniques, in Japanese)
+- [iOSアプリテスト自動化入門](https://amzn.to/2X8VUt2) (2014/ iOS apps test automation, in Japanese)
+- [システムテスト自動化 標準ガイド](https://amzn.to/2XkTZlo) (2014/ Translation "Software Test Automation" into Japanese)
 
 ### Blogs
 
