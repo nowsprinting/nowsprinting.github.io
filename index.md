@@ -3,13 +3,13 @@
 - iOS/Android/Unity app developer, SET (Software Engineer in Test).
 - Works at DeNA Co., Ltd. and HUB Systems, Inc.
 - Lives in Yokohama, Japan
-- GitHub: [@nowsprinting](https://github.com/nowsprinting)
 - Twitter: [@nowsprinting](https://twitter.com/nowsprinting)
 
 
 ## Active Projects
 
 - [mob IntelliJ plugin](https://github.com/remotemobprogramming/intellij-mob): for good remote mob programming experience
+- Looking for a [sponsor](https://github.com/sponsors/nowsprinting)!
 
 
 ## Portfolios
@@ -25,16 +25,16 @@
 - [iOSアプリテスト自動化入門](https://amzn.to/2X8VUt2) (2014/ iOS apps test automation, in Japanaese)
 - [システムテスト自動化 標準ガイド](https://amzn.to/2XkTZlo) (2014/ Translation "Software Test Automation" for Japanaese)
 
-### Apps
-
-- [電エースQuiz - 河崎実監督と特撮映画の世界](https://apps.apple.com/jp/app/id528698814) (iOS app)
-- [フットサル ルールと雑学](https://apps.apple.com/jp/app/id512031516) (iOS app)
-
 ### Blogs
 
 - [やらなイカ？](https://www.nowsprinting.com/) (Tech blog)
 - [斬らなイカ？](https://martial-arts.nowsprinting.com/) (Martial-arts blog)
-- [噛まなイカ？](https://same.nowsprinting.com/) (Sharks, Zombies, B-movies blog)
+- [噛まなイカ？](https://same.nowsprinting.com/) (Sharks, Zombies, and so B-movies blog)
+
+### Apps
+
+- [電エースQuiz - 河崎実監督と特撮映画の世界](https://apps.apple.com/jp/app/id528698814) (iOS app)
+- [フットサル ルールと雑学](https://apps.apple.com/jp/app/id512031516) (iOS app)
 
 ### Appearance
 
