@@ -25,20 +25,20 @@
 - [iOSアプリテスト自動化入門](https://amzn.to/2X8VUt2) (2014/ iOS apps test automation, in Japanese)
 - [システムテスト自動化 標準ガイド](https://amzn.to/2XkTZlo) (2014/ Translation "Software Test Automation" into Japanese)
 - Unity Test Framework完全攻略ガイド (2021/ Unity Test Framework guide, in Japanese)
-    - [Unity Test Framework完全攻略ガイド：いか小屋](https://techbookfest.org/product/5936401533108224?productVariantID=5204487432044544)
     - [Unity Test Framework完全攻略ガイド【電子版】 - いか小屋 - BOOTH](https://ikagoya.booth.pm/items/3139036)
+    - [Unity Test Framework完全攻略ガイド：いか小屋](https://techbookfest.org/product/5936401533108224?productVariantID=5204487432044544)
 
 ### Blogs
 
-- [やらなイカ？](https://www.nowsprinting.com/) (Tech blog)
-- [斬らなイカ？](https://martial-arts.nowsprinting.com/) (Martial-arts blog)
-- [噛まなイカ？](https://same.nowsprinting.com/) (Sharks, Zombies, and so B-movies blog)
+- [やらなイカ？](https://www.nowsprinting.com/) (Software development and Test automation)
+- [斬らなイカ？](https://martial-arts.nowsprinting.com/) (Martial-arts)
+- [噛まなイカ？](https://same.nowsprinting.com/) (Sharks, Zombies, and so B-movies)
 
 ### Apps
 
-- [電エースQuiz - 河崎実監督と特撮映画の世界](https://apps.apple.com/jp/app/id528698814) (iOS app)
-- [フットサル ルールと雑学](https://apps.apple.com/jp/app/id512031516) (iOS app)
-- [山吹色の茸疾走](https://play.google.com/store/apps/details?id=com.nowsprinting.sunlightyellowmushroom) (Android app)
+- [電エースQuiz - 河崎実監督と特撮映画の世界](https://apps.apple.com/jp/app/id528698814) (iOS)
+- [フットサル ルールと雑学](https://apps.apple.com/jp/app/id512031516) (iOS)
+- [山吹色の茸疾走](https://play.google.com/store/apps/details?id=com.nowsprinting.sunlightyellowmushroom) (Android)
 
 ### Appearance
 
