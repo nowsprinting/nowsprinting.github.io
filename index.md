@@ -24,6 +24,9 @@
 - [Androidアプリ テスト技法](https://amzn.to/3bKFSeh) (2013/ Android apps test techniques, in Japanese)
 - [iOSアプリテスト自動化入門](https://amzn.to/2X8VUt2) (2014/ iOS apps test automation, in Japanese)
 - [システムテスト自動化 標準ガイド](https://amzn.to/2XkTZlo) (2014/ Translation "Software Test Automation" into Japanese)
+- Unity Test Framework完全攻略ガイド (2021/ Unity Test Framework guide, in Japanese)
+    - [Unity Test Framework完全攻略ガイド：いか小屋](https://techbookfest.org/product/5936401533108224?productVariantID=5204487432044544)
+    - [Unity Test Framework完全攻略ガイド【電子版】 - いか小屋 - BOOTH](https://ikagoya.booth.pm/items/3139036)
 
 ### Blogs
 
