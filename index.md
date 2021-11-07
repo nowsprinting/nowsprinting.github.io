@@ -32,7 +32,7 @@
 
 - [やらなイカ？](https://www.nowsprinting.com/) (Software development and Test automation)
 - [斬らなイカ？](https://martial-arts.nowsprinting.com/) (Martial-arts)
-- [噛まなイカ？](https://same.nowsprinting.com/) (Sharks, Zombies, and so B-movies)
+- [咬まなイカ？](https://same.nowsprinting.com/) (Sharks, Zombies, and so B-movies)
 
 ### Apps
 
