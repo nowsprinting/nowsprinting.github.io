@@ -26,11 +26,11 @@
 - [システムテスト自動化 標準ガイド](https://amzn.to/2XkTZlo) (2014/ Translation "Software Test Automation" into Japanese)
 - Unity Test Framework完全攻略ガイド (2021/ Unity Test Framework guide, in Japanese)
     - [Unity Test Framework完全攻略ガイド【電子版】 - いか小屋 - BOOTH](https://ikagoya.booth.pm/items/3139036)
-    - [Unity Test Framework完全攻略ガイド：いか小屋](https://techbookfest.org/product/5936401533108224?productVariantID=5204487432044544)
+    - [Unity Test Framework完全攻略ガイド：いか小屋](https://techbookfest.org/product/5936401533108224?productVariantID=5204487432044544) - 技術書典オンラインマーケット
 
 ### Blogs
 
-- [やらなイカ？](https://www.nowsprinting.com/) (Software development and Test automation)
+- [やらなイカ？](https://www.nowsprinting.com/) (Software development and test automation)
 - [斬らなイカ？](https://martial-arts.nowsprinting.com/) (Martial-arts)
 - [咬まなイカ？](https://same.nowsprinting.com/) (Sharks, Zombies, and so B-movies)
 
