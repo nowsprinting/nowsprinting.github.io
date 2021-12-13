@@ -1,6 +1,6 @@
 ## Profile
 
-- Unity/ iOS/ Android app developer, SET (Software Engineer in Test).
+- Unity/ iOS/ Android app developer, SET (Software Engineer in Test)
 - Works at DeNA Co., Ltd. and HUB Systems, Inc.
 - Lives in Yokohama, Japan
 - Twitter: [@nowsprinting](https://twitter.com/nowsprinting)
@@ -16,15 +16,15 @@
 
 ### Speaker
 
-- [Unite Tokyo 2019](https://events.unity3d.jp/unitetokyo/) about [Improve internal quality with Unity Test Runner](https://learning.unity3d.jp/3300/)
-- More [presentations](https://www.slideshare.net/nowsprinting/presentations)
+- [Unity Test Runnerを活用して内部品質を向上しよう - Unite Tokyo 2019](https://learning.unity3d.jp/3300/) (Improve internal quality with Unity Test Runner)
+- And more [presentations](https://www.slideshare.net/nowsprinting/presentations)
 
 ### Books
 
-- [Androidアプリ テスト技法](https://amzn.to/3bKFSeh) (2013/ Android apps test techniques, in Japanese)
-- [iOSアプリテスト自動化入門](https://amzn.to/2X8VUt2) (2014/ iOS apps test automation, in Japanese)
-- [システムテスト自動化 標準ガイド](https://amzn.to/2XkTZlo) (2014/ Translation "Software Test Automation" into Japanese)
-- Unity Test Framework完全攻略ガイド (2021/ Unity Test Framework guide, in Japanese)
+- [Androidアプリ テスト技法](https://amzn.to/3bKFSeh) (Android apps test techniques; 2013, 秀和システム, 共著)
+- [iOSアプリテスト自動化入門](https://amzn.to/2X8VUt2) (iOS apps test automation; 2014, 秀和システム)
+- [システムテスト自動化 標準ガイド](https://amzn.to/2XkTZlo) (Translation "Software Test Automation" into Japanese; 2014, 翔泳社, 共訳・共著)
+- Unity Test Framework完全攻略ガイド (Unity Test Framework guide; 2021, いか小屋)
     - [BOOTH](https://ikagoya.booth.pm/items/3139036)
     - [技術書典オンラインマーケット](https://techbookfest.org/product/5936401533108224?productVariantID=5204487432044544)
 
@@ -40,7 +40,7 @@
 - [フットサル ルールと雑学](https://apps.apple.com/jp/app/id512031516) (iOS)
 - [山吹色の茸疾走](https://play.google.com/store/apps/details?id=com.nowsprinting.sunlightyellowmushroom) (Android)
 
-### Appearance
+### Appearance work
 
 - [母さん助けて電エース](https://amzn.to/2wqri92) (2014)
 - [電エースタロウ ホットリボンのひみつ](https://amzn.to/2BWzN1x) (2014)
