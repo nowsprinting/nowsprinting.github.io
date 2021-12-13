@@ -1,6 +1,6 @@
 ## Profile
 
-- iOS/Android/Unity app developer, SET (Software Engineer in Test).
+- Unity/ iOS/ Android app developer, SET (Software Engineer in Test).
 - Works at DeNA Co., Ltd. and HUB Systems, Inc.
 - Lives in Yokohama, Japan
 - Twitter: [@nowsprinting](https://twitter.com/nowsprinting)
@@ -25,8 +25,8 @@
 - [iOSアプリテスト自動化入門](https://amzn.to/2X8VUt2) (2014/ iOS apps test automation, in Japanese)
 - [システムテスト自動化 標準ガイド](https://amzn.to/2XkTZlo) (2014/ Translation "Software Test Automation" into Japanese)
 - Unity Test Framework完全攻略ガイド (2021/ Unity Test Framework guide, in Japanese)
-    - [Unity Test Framework完全攻略ガイド【電子版】 - いか小屋 - BOOTH](https://ikagoya.booth.pm/items/3139036)
-    - [Unity Test Framework完全攻略ガイド：いか小屋](https://techbookfest.org/product/5936401533108224?productVariantID=5204487432044544) - 技術書典オンラインマーケット
+    - [BOOTH](https://ikagoya.booth.pm/items/3139036)
+    - [技術書典オンラインマーケット](https://techbookfest.org/product/5936401533108224?productVariantID=5204487432044544)
 
 ### Blogs
 
