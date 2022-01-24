@@ -21,12 +21,15 @@
 
 ### Books
 
-- [Androidアプリ テスト技法](https://amzn.to/3bKFSeh) (Android apps test techniques; 2013, 秀和システム, 共著)
-- [iOSアプリテスト自動化入門](https://amzn.to/2X8VUt2) (iOS apps test automation; 2014, 秀和システム)
+- [Androidアプリ テスト技法](https://amzn.to/3bKFSeh) (2013, 秀和システム, 共著)
+- [iOSアプリテスト自動化入門](https://amzn.to/2X8VUt2) (2014, 秀和システム)
 - [システムテスト自動化 標準ガイド](https://amzn.to/2XkTZlo) (Translation "Software Test Automation" into Japanese; 2014, 翔泳社, 共訳・共著)
-- Unity Test Framework完全攻略ガイド (Unity Test Framework guide; 2021, いか小屋)
-    - [BOOTH](https://ikagoya.booth.pm/items/3139036)
-    - [技術書典オンラインマーケット](https://techbookfest.org/product/5936401533108224?productVariantID=5204487432044544)
+- Unity Test Framework完全攻略ガイド (2021)
+    - [Unity Test Framework完全攻略ガイド【電子版】 - いか小屋 - BOOTH](https://ikagoya.booth.pm/items/3139036)
+    - [Unity Test Framework完全攻略ガイド：いか小屋](https://techbookfest.org/product/5936401533108224)
+- Unity Automated QA攻略ガイド (2021)
+    - [Unity Automated QA攻略ガイド - いか小屋 - BOOTH](https://ikagoya.booth.pm/items/3534629)
+    - [Unity Automated QA攻略ガイド：いか小屋](https://techbookfest.org/product/5755610421264384)
 
 ### Blogs
 
