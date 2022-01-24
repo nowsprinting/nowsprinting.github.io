@@ -16,7 +16,7 @@
 
 ### Speaker
 
-- [Unity Test Runnerを活用して内部品質を向上しよう | Unity Learning Materials](https://learning.unity3d.jp/3300/) (Unite Tokyo 2019)
+- [Unity Test Runnerを活用して内部品質を向上しよう - Unity Learning Materials](https://learning.unity3d.jp/3300/) (Unite Tokyo 2019)
 - And more [presentations](https://www.slideshare.net/nowsprinting/presentations)
 
 ### Books
