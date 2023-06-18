@@ -1,15 +1,32 @@
 ## Profile
 
 - Unity/ iOS/ Android app developer, SET (Software Engineer in Test)
-- Works at DeNA Co., Ltd. and HUB Systems, Inc.
+- Works at Colasoft Japan Co., Ltd. and HUB Systems, Inc.
 - Lives in Yokohama, Japan
 - Twitter: [@nowsprinting](https://twitter.com/nowsprinting)
 
 
 ## Active Projects
 
-- [mob IntelliJ plugin](https://github.com/remotemobprogramming/intellij-mob): for good remote mob programming experience
-- Looking for a [sponsor](https://github.com/sponsors/nowsprinting)!
+### GitHub Actions
+
+- [check-version-format-action](https://github.com/nowsprinting/check-version-format-action): Check and extract version string from tag
+- [create-unity-project-action](https://github.com/nowsprinting/create-unity-project-action): Create empty Unity3D project
+- [diff-pdf-action](https://github.com/nowsprinting/diff-pdf-action): Using vslavik/diff-pdf on GitHub Actions workflow
+
+### IntelliJ plugins
+
+- [intellij-mob](https://github.com/remotemobprogramming/intellij-mob): IntelliJ plugin for fast git handover and timer with mob
+
+### Unity
+
+- [blender-like-sceneview-hotkeys](https://github.com/nowsprinting/blender-like-sceneview-hotkeys): Select the viewing direction for a Unity SceneView with the Blender-like hotkeys.
+- [create-script-folders-with-tests](https://github.com/nowsprinting/create-script-folders-with-tests): Create script folders (Editor, Runtime, and each Tests) containing assembly definition file (.asmdef).
+- [test-helper](https://github.com/nowsprinting/test-helper): Test helper library for Unity Test Framework
+- [test-helper.input](https://github.com/nowsprinting/test-helper.input): Wrapper and stubs reference implementation for tests using Input Manager (UnityEngine.Input)
+- [test-helper.monkey](https://github.com/nowsprinting/test-helper.monkey): Monkey test helper library for Unity UI (uGUI)
+- [UnityTestExamples](https://github.com/nowsprinting/UnityTestExamples): Sample project for『Unity Test Framework完全攻略ガイド』and『Unity Test Framework完全攻略ガイド 統合テスト編』
+- [UnityAutomatedQAExamples](https://github.com/nowsprinting/UnityAutomatedQAExamples): Sample project for『Unity Automated QA攻略ガイド』
 
 
 ## Portfolios
@@ -21,35 +38,21 @@
 
 ### Books
 
-- [Androidアプリ テスト技法](https://amzn.to/3bKFSeh) (2013, 秀和システム, 共著)
-- [iOSアプリテスト自動化入門](https://amzn.to/2X8VUt2) (2014, 秀和システム)
-- [システムテスト自動化 標準ガイド](https://amzn.to/2XkTZlo) (Translation "Software Test Automation" into Japanese; 2014, 翔泳社, 共訳・共著)
-- Unity Test Framework完全攻略ガイド (2021)
-    - [Unity Test Framework完全攻略ガイド【電子版】 - いか小屋 - BOOTH](https://ikagoya.booth.pm/items/3139036)
-    - [Unity Test Framework完全攻略ガイド：いか小屋](https://techbookfest.org/product/5936401533108224)
-- Unity Automated QA攻略ガイド (2021)
-    - [Unity Automated QA攻略ガイド - いか小屋 - BOOTH](https://ikagoya.booth.pm/items/3534629)
-    - [Unity Automated QA攻略ガイド：いか小屋](https://techbookfest.org/product/5755610421264384)
+- [Unity Test Framework完全攻略ガイド 統合テスト編](https://www.nowsprinting.com/entry/2023/05/21/043237) (2023)
+- [Unity Test Framework完全攻略ガイド](https://www.nowsprinting.com/entry/2022/08/10/080000) (2021, 2022)
+- [Unity Automated QA攻略ガイド](https://www.nowsprinting.com/entry/2021/12/26/100000) (2021)
+- [システムテスト自動化 標準ガイド](https://amzn.to/2XkTZlo) (Translation **Software Test Automation** into Japanese; 共訳・共著, 翔泳社, 2014)
+- [iOSアプリテスト自動化入門](https://amzn.to/2X8VUt2) (秀和システム, 2014)
+- [Androidアプリ テスト技法](https://amzn.to/3bKFSeh) (共著, 秀和システム, 2013)
 
 ### Blogs
 
-- [やらなイカ？](https://www.nowsprinting.com/) (Software development and test automation)
-- [斬らなイカ？](https://martial-arts.nowsprinting.com/) (Martial-arts)
-- [咬まなイカ？](https://same.nowsprinting.com/) (Sharks, Zombies, and so B-movies)
+- [やらなイカ？](https://www.nowsprinting.com/): Software development and test automation
+- [斬らなイカ？](https://martial-arts.nowsprinting.com/): Martial-arts
+- [咬まなイカ？](https://same.nowsprinting.com/): Sharks, Zombies, and so B-movies
 
 ### Apps
 
 - [電エースQuiz - 河崎実監督と特撮映画の世界](https://apps.apple.com/jp/app/id528698814) (iOS)
 - [フットサル ルールと雑学](https://apps.apple.com/jp/app/id512031516) (iOS)
 - [山吹色の茸疾走](https://play.google.com/store/apps/details?id=com.nowsprinting.sunlightyellowmushroom) (Android)
-
-### Appearance work
-
-- [母さん助けて電エース](https://amzn.to/2wqri92) (2014)
-- [電エースタロウ ホットリボンのひみつ](https://amzn.to/2BWzN1x) (2014)
-- [電エース中野 大江戸温泉物語の謎](https://amzn.to/2PKVggM) (2014)
-- [電エース下関](https://amzn.to/2LBcD0e) (2015)
-- [電エース刑事](https://amzn.to/2MVrI1o) (2016)
-- [電エースポリス 第2話](https://www.youtube.com/watch?v=BMGmFhI_gh8) (2016)
-- [燃えよ電エース 俺たちのアモーレ](http://amzn.to/2pnEcDG) (2017)
-- [電エース60](https://amzn.to/2Pcqnkg) (2018)
