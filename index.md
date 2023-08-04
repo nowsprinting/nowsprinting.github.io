@@ -31,19 +31,20 @@
 
 ## Portfolios
 
-### Speaker
-
-- [Unity Test Runnerを活用して内部品質を向上しよう - Unity Learning Materials](https://learning.unity3d.jp/3300/) (Unite Tokyo 2019)
-- And more [presentations](https://www.slideshare.net/nowsprinting/presentations)
-
 ### Books
 
+- [Unityバイブル R5夏号](https://amzn.to/3rPYpmY)（共著, ボーンデジタル, 2023）
 - [Unity Test Framework完全攻略ガイド 統合テスト編](https://www.nowsprinting.com/entry/2023/05/21/043237) (2023)
 - [Unity Test Framework完全攻略ガイド](https://www.nowsprinting.com/entry/2022/08/10/080000) (2021, 2022)
 - [Unity Automated QA攻略ガイド](https://www.nowsprinting.com/entry/2021/12/26/100000) (2021)
 - [システムテスト自動化 標準ガイド](https://amzn.to/2XkTZlo) (Translation **Software Test Automation** into Japanese; 共訳・共著, 翔泳社, 2014)
 - [iOSアプリテスト自動化入門](https://amzn.to/2X8VUt2) (秀和システム, 2014)
 - [Androidアプリ テスト技法](https://amzn.to/3bKFSeh) (共著, 秀和システム, 2013)
+
+### Speaker
+
+- [Unity Test Runnerを活用して内部品質を向上しよう - Unity Learning Materials](https://learning.unity3d.jp/3300/) (Unite Tokyo 2019)
+- And more [presentations](https://www.slideshare.net/nowsprinting/presentations)
 
 ### Blogs
 
