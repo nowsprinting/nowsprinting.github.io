@@ -41,6 +41,7 @@
 
 ### Books
 
+- [Anjin非公式ファンブック](https://ikagoya.booth.pm/items/5967097)（2024）
 - [GitHub CopilotとのペアプロTDDでつくるローグライクRPG](https://ikagoya.booth.pm/items/5372853)（2023）
 - [テスト自動化で大切なことはTAROMANが教えてくれた](https://ikagoya.booth.pm/items/4981241)（2023）
 - [Unityバイブル R5夏号](https://amzn.to/3rPYpmY)（共著, ボーンデジタル, 2023）
