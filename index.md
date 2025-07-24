@@ -20,9 +20,9 @@
 - [blender-like-sceneview-hotkeys](https://github.com/nowsprinting/blender-like-sceneview-hotkeys): Select the viewing direction for a Unity SceneView with the Blender-like hotkeys
 - [create-script-folders-with-tests](https://github.com/nowsprinting/create-script-folders-with-tests): Create script folders (Editor, Runtime, and each Tests) containing assembly definition file (.asmdef)
 - [test-helper](https://github.com/nowsprinting/test-helper): Custom Attributes, Comparers, and Constraints useful for testing with Unity Test Framework
-- [test-helper.input](https://github.com/nowsprinting/test-helper.input): Wrapper and test stubs reference implementation for Input Manager (UnityEngine.Input)
-- [test-helper.random](https://github.com/nowsprinting/test-helper.random): Wrapper and test stubs reference implementation for UnityEngine.Random
-- [test-helper.monkey](https://github.com/nowsprinting/test-helper.monkey): Object-based Unity UI (uGUI) monkey testing and API for custom implementation
+- [test-helper.input](https://github.com/nowsprinting/test-helper.input): Mocking the Input Manager (Legacy, UnityEngine.Input)
+- [test-helper.random](https://github.com/nowsprinting/test-helper.random): Mocking the UnityEngine.Random
+- [test-helper.ui](https://github.com/nowsprinting/test-helper.ui): A library for object-based monkey and UI testing
 
 
 ### Unity Examples
@@ -64,6 +64,7 @@
 
 ### Speaker
 
+- CEDEC2025: [E2Eだけがテスト自動化じゃない！ Unity製ゲームの開発者テスト チュートリアル](https://docs.google.com/presentation/d/e/2PACX-1vR3rVOJQQVNHiBtpxoukxdqWXSp4RIqqGkA4LepXwRK4kEp9GUd-ycgdLvUhBCAR-0p6Yw5wWkp21Ea/pub?start=false&loop=false&delayms=3000&slide=id.SLIDES_API1318478534_0)
 - STAC2024: [AnjinによるUnity製ゲームの自動テスト事例紹介](https://docs.google.com/presentation/d/e/2PACX-1vQNIotSOgzM60aGMInfGSs-TtsiZX4TZhZfF9cl17Q_a0-EiUm06QW-rgRc4GULGcWWhRAya3KIDyvc/pub?start=false&loop=false&delayms=3000)
 - STAC2023: [GitHub CopilotとのペアプロTDDでつくるローグライクRPG](https://docs.google.com/presentation/d/e/2PACX-1vSfUJYohfoC7xrDN8blp0V79JhgWhUAG1_XG7w8jgA62PesT7WAGcNfgKkalsCl_dHnOoARNzWY5TmL/pub?start=false&loop=false&delayms=3000)
 - Unite Tokyo 2019: [Unity Test Runnerを活用して内部品質を向上しよう - Unity Learning Materials](https://learning.unity3d.jp/3300/)
