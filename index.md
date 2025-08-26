@@ -66,7 +66,7 @@
 - CEDEC2025: [E2Eだけがテスト自動化じゃない！ Unity製ゲームの開発者テスト チュートリアル](https://docs.google.com/presentation/d/e/2PACX-1vR3rVOJQQVNHiBtpxoukxdqWXSp4RIqqGkA4LepXwRK4kEp9GUd-ycgdLvUhBCAR-0p6Yw5wWkp21Ea/pub?start=false&loop=false&delayms=3000)
 - STAC2024: [AnjinによるUnity製ゲームの自動テスト事例紹介](https://docs.google.com/presentation/d/e/2PACX-1vQNIotSOgzM60aGMInfGSs-TtsiZX4TZhZfF9cl17Q_a0-EiUm06QW-rgRc4GULGcWWhRAya3KIDyvc/pub?start=false&loop=false&delayms=3000)
 - STAC2023: [GitHub CopilotとのペアプロTDDでつくるローグライクRPG](https://docs.google.com/presentation/d/e/2PACX-1vSfUJYohfoC7xrDN8blp0V79JhgWhUAG1_XG7w8jgA62PesT7WAGcNfgKkalsCl_dHnOoARNzWY5TmL/pub?start=false&loop=false&delayms=3000)
-- Unite Tokyo 2019: [Unity Test Runnerを活用して内部品質を向上しよう - Unity Learning Materials](https://learning.unity3d.jp/3300/)
+- Unite Tokyo 2019: [Unity Test Runnerを活用して内部品質を向上しよう](https://learning.unity3d.jp/3300/)
 - JaSST'16 Tokyo: 特定モバイルプラットフォームで動作するアプリに対する効率的なテストを考える
 - STAC2014: [ビルドプロセスとCI](https://www.slideshare.net/nowsprinting/ci-stac2014)
 - STAC2013: [スマートフォンアプリの テスト自動化をはじめよう](https://www.slideshare.net/nowsprinting/starcon2013-mobile-testautomationkeynote6)
