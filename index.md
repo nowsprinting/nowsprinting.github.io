@@ -16,7 +16,7 @@
 - [Anjin](https://github.com/DeNA/Anjin): Autopilot framework for games made with Unity
 - [blender-like-sceneview-hotkeys](https://github.com/nowsprinting/blender-like-sceneview-hotkeys): Snap the Unity SceneView to common viewing directions with Blender-like hotkeys
 - [create-script-folders-with-tests](https://github.com/nowsprinting/create-script-folders-with-tests): Creates Unity script folders (Editor, Runtime, and Tests) and adds an Assembly Definition File (.asmdef) to each
-- [gameplay-mcp](https://github.com/nowsprinting/gameplay-mcp): Gameplay MCP Server for Unity
+- [gameplay-mcp](https://github.com/nowsprinting/gameplay-mcp): MCP server for gameplay. Provides tools that AI models play your game via the MCP by embedding in your runtime (player build)
 - [test-helper](https://github.com/nowsprinting/test-helper): Custom attributes, constraints, and comparers for writing more expressive tests in Unity Test Framework
 - [test-helper.input](https://github.com/nowsprinting/test-helper.input): Makes Unity’s legacy Input Manager (UnityEngine.Input) mockable
 - [test-helper.random](https://github.com/nowsprinting/test-helper.random): Makes UnityEngine.Random mockable
