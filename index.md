@@ -1,15 +1,12 @@
 # Koji Hasegawa
 
 
-
 ## Profile
 
 - Unity/ iOS/ Android app developer, SET (Software Engineer in Test)
-- Works at HUB Systems, Inc.
 - Lives in Yokohama, Japan
 - Blog: [やらなイカ？](https://www.nowsprinting.com/)
 - Twitter: [@nowsprinting](https://twitter.com/nowsprinting)
-
 
 
 ## Active Projects
@@ -17,12 +14,13 @@
 ### Unity (UPM) Packages
 
 - [Anjin](https://github.com/DeNA/Anjin): Autopilot framework for games made with Unity
-- [blender-like-sceneview-hotkeys](https://github.com/nowsprinting/blender-like-sceneview-hotkeys): Select the viewing direction for a Unity SceneView with the Blender-like hotkeys
-- [create-script-folders-with-tests](https://github.com/nowsprinting/create-script-folders-with-tests): Create script folders (Editor, Runtime, and each Tests) containing assembly definition file (.asmdef)
-- [test-helper](https://github.com/nowsprinting/test-helper): Custom Attributes, Comparers, and Constraints useful for testing with Unity Test Framework
-- [test-helper.input](https://github.com/nowsprinting/test-helper.input): Mocking the Input Manager (Legacy, UnityEngine.Input)
-- [test-helper.random](https://github.com/nowsprinting/test-helper.random): Mocking the UnityEngine.Random
-- [test-helper.ui](https://github.com/nowsprinting/test-helper.ui): A library for object-based monkey and UI testing
+- [blender-like-sceneview-hotkeys](https://github.com/nowsprinting/blender-like-sceneview-hotkeys): Snap the Unity SceneView to common viewing directions with Blender-like hotkeys
+- [create-script-folders-with-tests](https://github.com/nowsprinting/create-script-folders-with-tests): Creates Unity script folders (Editor, Runtime, and Tests) and adds an Assembly Definition File (.asmdef) to each
+- [gameplay-mcp](https://github.com/nowsprinting/gameplay-mcp): Gameplay MCP Server for Unity
+- [test-helper](https://github.com/nowsprinting/test-helper): Custom attributes, constraints, and comparers for writing more expressive tests in Unity Test Framework
+- [test-helper.input](https://github.com/nowsprinting/test-helper.input): Makes Unity’s legacy Input Manager (UnityEngine.Input) mockable
+- [test-helper.random](https://github.com/nowsprinting/test-helper.random): Makes UnityEngine.Random mockable
+- [test-helper.ui](https://github.com/nowsprinting/test-helper.ui): Unity library for UI testing including object-based monkey testing
 
 
 ### Unity Examples
@@ -43,7 +41,7 @@
 ### IntelliJ plugins
 
 - [intellij-mob](https://github.com/remotemobprogramming/intellij-mob): IntelliJ plugin for fast git handover and timer with mob
-
+- [MCP Server Extension for Unity](https://github.com/nowsprinting/mcp-extension-unity): IntelliJ MCP Server extension plugin for Unity Editor
 
 
 ## Portfolios
@@ -55,7 +53,7 @@
 - [Unityバイブル R5夏号](https://amzn.to/3rPYpmY) (共著, ボーンデジタル, 2023)
 - [Unity Test Framework完全攻略ガイド 統合テスト編](https://ikagoya.booth.pm/items/4807367) (2023)
 - [Unity Automated QA攻略ガイド](https://ikagoya.booth.pm/items/3534629) (2021)
-- [Unity Test Framework完全攻略ガイド](https://ikagoya.booth.pm/items/3139036) (2021, 2022)
+- [Unity Test Framework完全攻略ガイド](https://ikagoya.booth.pm/items/3139036) (2021, 2022, 2025)
 - [システムテスト自動化 標準ガイド](https://amzn.to/2XkTZlo) (共訳・共著, 翔泳社, 2014)
 - [iOSアプリテスト自動化入門](https://amzn.to/2X8VUt2) (秀和システム, 2014)
 - [Androidアプリ テスト技法](https://amzn.to/3bKFSeh) (共著, 秀和システム, 2013)
