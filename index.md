@@ -13,7 +13,7 @@
 
 ### Unity (UPM) Packages
 
-- [Anjin](https://github.com/DeNA/Anjin): Autopilot framework for games made with Unity
+- [DeNA/Anjin](https://github.com/DeNA/Anjin): Autopilot framework for games made with Unity
 - [blender-like-sceneview-hotkeys](https://github.com/nowsprinting/blender-like-sceneview-hotkeys): Snap the Unity SceneView to common viewing directions with Blender-like hotkeys
 - [create-script-folders-with-tests](https://github.com/nowsprinting/create-script-folders-with-tests): Creates Unity script folders (Editor, Runtime, and Tests) and adds an Assembly Definition File (.asmdef) to each
 - [gameplay-mcp](https://github.com/nowsprinting/gameplay-mcp): MCP server for gameplay. Provides tools that AI models play your game via the MCP by embedding in your runtime (player build)
@@ -22,7 +22,6 @@
 - [test-helper.random](https://github.com/nowsprinting/test-helper.random): Makes UnityEngine.Random mockable
 - [test-helper.ui](https://github.com/nowsprinting/test-helper.ui): Unity library for UI testing including object-based monkey testing
 
-
 ### Unity Examples
 
 - [UnityTestExamples](https://github.com/nowsprinting/UnityTestExamples):『Unity Test Framework完全攻略ガイド』および同『統合テスト編』サンプルコード
@@ -30,13 +29,17 @@
 - [RoguelikeExample](https://github.com/nowsprinting/RoguelikeExample):『Unityバイブル R5夏号』SECTION 6 サンプルコード
 - [RoguelikeTDD](https://github.com/nowsprinting/RoguelikeTDD):『GitHub CopilotとのペアプロTDDでつくるローグライクRPG』サンプルコード
 
+### Roslyn analyzers for Unity
+
+- [BannedApiAnalyzers for Unity](https://github.com/nowsprinting/BannedApiAnalyzers.Unity): Unity-focused fork of Microsoft.CodeAnalysis.BannedApiAnalyzers that uses Unity additional files instead of BannedSymbols.txt — no .csproj edits required
+- [UTF Analyzers](https://github.com/nowsprinting/test-framework.analyzers): Roslyn analyzers to help you write safer unit tests with the Unity Test Framework
+- [Which version of Roslyn analyzers should I use with Unity?](https://github.com/nowsprinting/which-version-of-roslyn-analyzers-should-i-use-with-unity): Compatibility information for Roslyn analyzers and source generators with different Unity versions
 
 ### GitHub Actions
 
 - [check-version-format-action](https://github.com/nowsprinting/check-version-format-action): Check and extract version string from tag
 - [create-unity-project-action](https://github.com/nowsprinting/create-unity-project-action): Create empty Unity3D project
 - [diff-pdf-action](https://github.com/nowsprinting/diff-pdf-action): Using vslavik/diff-pdf on GitHub Actions workflow
-
 
 ### IntelliJ plugins
 
@@ -58,7 +61,6 @@
 - [iOSアプリテスト自動化入門](https://amzn.to/2X8VUt2) (秀和システム, 2014)
 - [Androidアプリ テスト技法](https://amzn.to/3bKFSeh) (共著, 秀和システム, 2013)
 
-
 ### Speaker
 
 - CEDEC2025: [E2Eだけがテスト自動化じゃない！ Unity製ゲームの開発者テスト チュートリアル](https://docs.google.com/presentation/d/e/2PACX-1vR3rVOJQQVNHiBtpxoukxdqWXSp4RIqqGkA4LepXwRK4kEp9GUd-ycgdLvUhBCAR-0p6Yw5wWkp21Ea/pub?start=false&loop=false&delayms=3000)
@@ -69,7 +71,6 @@
 - STAC2014: [ビルドプロセスとCI](https://www.slideshare.net/nowsprinting/ci-stac2014)
 - STAC2013: [スマートフォンアプリの テスト自動化をはじめよう](https://www.slideshare.net/nowsprinting/starcon2013-mobile-testautomationkeynote6)
 - Devlopers Summit 2012: [実践 Android Developer Testing](https://www.slideshare.net/ussy/android-developertesting)
-
 
 ### Apps
 
